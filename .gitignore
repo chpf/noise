@@ -5,3 +5,5 @@ build
 *.rdbg
 *.sublime*
 
+.clang-format
+
